@@ -25,7 +25,7 @@ Shows the relationship between Revenue and Operating Expenses to evaluate cost e
 ### 🔹 Scenario Analysis Dashboard
 
 Compares Actual vs Best Case vs Worst Case to assess business risk and potential outcomes.
-![Scenario Dashboard](images/backgrounds/Scenario.png)
+![Scenario Dashboard](images/screenshoots/scenario.png)
 
 ---
 
